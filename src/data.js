@@ -1,37 +1,62 @@
 export default [
     {
-      id: 1,
-      title: "Mount Fuji",
-      location: "Japan",
-      googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-      startDate: "12 Jan, 2021",
-      endDate: "24 Jan, 2021",
-      description:
-        "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-      imageUrl: "https://source.unsplash.com/WLxQvbMyfas",
+        id:1,
+        name:'ALMA',
+        price:1.20,
+        url:'https://bravomarket.online/upload/iblock/c3f/c3f021864a940b7328b8eb1911acb636.jpg'
     },
-  
     {
-      id: 2,
-      title: "Sydney Opera House",
-      location: "Australia",
-      googleMapsUrl: "https://goo.gl/maps/Sbh1APo4JPNdugMt9",
-      startDate: "27 May, 2021",
-      endDate: "8 Jun, 2021",
-      description:
-        "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
-      imageUrl: "https://source.unsplash.com/JmuyB_LibRo",
+        id:2,
+        name:'BANAN',
+        price:2.20,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/20c/430_558_1/20c73fbc2b1f691ae8b7ded3e272b9fc.jpg'
     },
-  
     {
-      id: 3,
-      title: "Geirangerfjord",
-      location: "Norway",
-      googleMapsUrl: "https://goo.gl/maps/NrgAVxy235LsXTFc7",
-      startDate: "01 Oct, 2021",
-      endDate: "18 Nov, 2021",
-      description:
-        "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
-      imageUrl: "https://source.unsplash.com/3PeSjpLVtLg",
+        id:3,
+        name:'NAR',
+        price:2.00,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/4ac/250_250_1/4ac3d65770bc5481e5d7e27dbfcd3176.jpg'
     },
-  ];
+    {
+        id:4,
+        name:'POMIDOR',
+        price:1.50,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/ecc/430_558_1/ecc2b0351edcd895ea5907ede5e8a90e.jpg'     
+    },
+    {
+        id:5,
+        name:'KARTOF',
+        price:1.10,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/5b0/250_250_1/5b0d69f5ab5362c0638de656b6104c69.jpg'
+    },
+    {
+        id:6,
+        name:'XIYAR',
+        price:1.60,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/73f/250_250_1/73fd14b5955a026ab6b9495457d8e0e7.jpg'
+    },
+    {
+        id:7,
+        name:'KÖK',
+        price:0.60,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/1a0/250_250_1/1a0bee4d4fc53d271079d5099d79ed11.jpg'
+    },
+    {
+        id:8,
+        name:'BADIMCAN',
+        price:0.90,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/77f/250_250_1/77fecb35594fbfaed8b802581ad3caa5.jpg'
+    },
+    {
+        id:9,
+        name:'GÖBƏLƏK',
+        price:3.00,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/fc2/250_250_1/fc255d835e51f2fa6945745292dc673e.jpg'
+    },
+    {
+        id:10,
+        name:'SOĞAN',
+        price:0.40,
+        url:'https://bravomarket.online/upload/resize_cache/iblock/415/250_250_1/4154fe1c8178cc223a4b1ca7863c36d6.jpg'
+    }
+]
